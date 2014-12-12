@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 
 using System.Data.Entity;
+using System.Data.Entity.ModelConfiguration.Conventions;
 namespace MvcApplication1.Controllers
 {
     public class PruebaController : Controller
